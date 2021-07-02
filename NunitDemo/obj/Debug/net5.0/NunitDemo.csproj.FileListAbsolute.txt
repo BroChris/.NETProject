@@ -1,0 +1,12 @@
+C:\Users\cyber\source\repos\NunitDemo\bin\Debug\net5.0\NunitDemo.deps.json
+C:\Users\cyber\source\repos\NunitDemo\bin\Debug\net5.0\NunitDemo.dll
+C:\Users\cyber\source\repos\NunitDemo\bin\Debug\net5.0\ref\NunitDemo.dll
+C:\Users\cyber\source\repos\NunitDemo\bin\Debug\net5.0\NunitDemo.pdb
+C:\Users\cyber\source\repos\NunitDemo\obj\Debug\net5.0\NunitDemo.csproj.AssemblyReference.cache
+C:\Users\cyber\source\repos\NunitDemo\obj\Debug\net5.0\NunitDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyber\source\repos\NunitDemo\obj\Debug\net5.0\NunitDemo.AssemblyInfoInputs.cache
+C:\Users\cyber\source\repos\NunitDemo\obj\Debug\net5.0\NunitDemo.AssemblyInfo.cs
+C:\Users\cyber\source\repos\NunitDemo\obj\Debug\net5.0\NunitDemo.csproj.CoreCompileInputs.cache
+C:\Users\cyber\source\repos\NunitDemo\obj\Debug\net5.0\NunitDemo.dll
+C:\Users\cyber\source\repos\NunitDemo\obj\Debug\net5.0\ref\NunitDemo.dll
+C:\Users\cyber\source\repos\NunitDemo\obj\Debug\net5.0\NunitDemo.pdb
